@@ -1,4 +1,3 @@
-```markdown
 # OSHA Severe Injury Reports Analysis
 
 I built this Power BI project using OSHA's public Severe Injury Reports dataset. My goal was to work with a large real-world dataset and create a report that moves from overall trends to individual incident details.
@@ -87,4 +86,3 @@ I used OSHA's official Severe Injury Reports dataset for this project. You can a
 ## Opening the Report
 
 Download the `.pbix` file and open it with Power BI Desktop. To refresh the report, download the dataset from the link above and update the CSV source path in Power Query.
-```
